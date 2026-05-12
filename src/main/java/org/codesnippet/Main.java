@@ -7,6 +7,8 @@ public class Main {
         System.out.println("First Program");
 
         System.out.println(" second  Program");
+        System.out.println(" third  Program");
+
 
     }
 }
