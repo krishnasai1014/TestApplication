@@ -5,5 +5,8 @@ package org.codesnippet;
 public class Main {
     static void main() {
         System.out.println("First Program");
+
+        System.out.println(" second  Program");
+
     }
 }
